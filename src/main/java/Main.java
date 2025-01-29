@@ -4,6 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         System.out.println("Сообщение из ветки add-feature");
+        System.out.println("");
 
     }
 }
