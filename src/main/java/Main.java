@@ -3,8 +3,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        // шифрование
-        // хеширование пароль
+        System.out.println("Сообщение из ветки add-feature");
 
     }
 }
